@@ -1,0 +1,15 @@
+{
+    "name": "secondtruth/startmin",
+    "description": "Admin dashboard template for Bootstrap",
+    "homepage": "http://www.secondtruth.de",
+    "keywords": ["backend", "admin", "template", "theme", "web"],
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Christian Neff",
+            "email": "christian.neff@gmail.com",
+            "homepage": "http://www.secondtruth.de",
+            "role": "Developer"
+        }
+    ]
+}
