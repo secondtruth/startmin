@@ -5,6 +5,16 @@
 You can find a demo [here](http://secondtruth.github.io/startmin).
 
 
+## Features
+
+* Navbar with left and right menu + Sidebar
+* FontAwesome Icons (Version 4.6)
+* Charts and sortable Data Tables
+* Dashboard Info Widgets (Sizes: Normal + Hero)
+* Tabbed Panels with optional Dropdown
+* Social Login Buttons using FontAwesome Icons
+
+
 ## Getting Started
 
 To use this template, choose one of the following options to get started:
@@ -30,18 +40,19 @@ To install the library, run the following command and you will get the latest ve
 Have a bug or an issue with this template? [Open a new issue](https://github.com/secondtruth/startmin/issues) here on GitHub.
 
 
-## Original Creator
+## Contributors / Credits
 
-This template is based on [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) from [Start Bootstrap](http://startbootstrap.com/).
-
+**Startmin** is based on [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) from [Start Bootstrap](http://startbootstrap.com/).
 Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+This template is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+It makes use of the [FontAwesome](http://fontawesome.io/) icons by [Dave Gandy](https://twitter.com/davegandy). 
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Many thanks to the creator of and the snippet contributors at [Bootsnipp](http://bootsnipp.com/). 
 
 
 ## Copyright and License
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2/blob/gh-pages/LICENSE) license.
+Copyright 2013-2016 Christian Neff / Iron Summit Media Strategies, LLC.
+
+Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2/blob/gh-pages/LICENSE) license.
