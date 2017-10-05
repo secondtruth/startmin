@@ -49,6 +49,6 @@ Many thanks to the creator of and the snippet contributors at [Bootsnipp](http:/
 
 ## Copyright and License
 
-Copyright 2013-2016 Christian Neff / Iron Summit Media Strategies, LLC.
+Copyright 2013-2017 Christian Neff / Blackrock Digital LLC.
 
-Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2/blob/gh-pages/LICENSE) license.
+Code released under the [MIT](https://github.com/secondtruth/startmin/blob/master/LICENSE) license.
