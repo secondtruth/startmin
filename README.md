@@ -2,8 +2,6 @@
 
 **Startmin** is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) originally created by [Start Bootstrap](http://startbootstrap.com/).
 
-You can find a demo [here](http://secondtruth.github.io/startmin).
-
 
 ## Features
 
@@ -26,11 +24,9 @@ To use this template, choose one of the following options to get started:
 
 ### Composer Install
 
-[Install Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx) if you don't already have it present on your system:
+[Install Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx) if you don't already have it present on your system.
 
-    $ curl -sS https://getcomposer.org/installer | php
-
-To install the library, run the following command and you will get the latest version:
+To install the template, run the following command and you will get the latest version:
 
     $ composer require secondtruth/startmin
 
@@ -43,12 +39,12 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 ## Contributors / Credits
 
 **Startmin** is based on [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) from [Start Bootstrap](http://startbootstrap.com/).
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Start Bootstrap was created by and is maintained by **David Miller** at [Blackrock Digital](http://blackrockdigital.io/).
 
 This template is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-It makes use of the [FontAwesome](http://fontawesome.io/) icons by [Dave Gandy](https://twitter.com/davegandy). 
+It makes use of the [FontAwesome](http://fontawesome.io/) icons created by [Dave Gandy](https://twitter.com/davegandy).
 
-Many thanks to the creator of and the snippet contributors at [Bootsnipp](http://bootsnipp.com/). 
+Many thanks to the creator of and the snippet contributors at [Bootsnipp](http://bootsnipp.com/).
 
 
 ## Copyright and License
