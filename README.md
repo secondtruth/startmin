@@ -8,7 +8,7 @@ You can find a demo [here](http://secondtruth.github.io/startmin).
 ## Features
 
 * Navbar with left and right menu + Sidebar
-* FontAwesome Icons (Version 4.6)
+* FontAwesome Icons (Version 4.7)
 * Charts and sortable Data Tables
 * Dashboard Info Widgets (Sizes: Normal + Hero)
 * Tabbed Panels with optional Dropdown
