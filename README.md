@@ -10,9 +10,17 @@ You can find a demo [here](http://secondtruth.github.io/startmin).
 * Navbar with left and right menu + Sidebar
 * FontAwesome Icons (Version 4.7)
 * Charts and sortable Data Tables
-* Dashboard Info Widgets (Sizes: Normal + Hero)
+* Dashboard including nice Info Widgets
 * Tabbed Panels with optional Dropdown
 * Social Login Buttons using FontAwesome Icons
+
+### Differences to SB Admin 2
+
+* Hero-sized Dashboard Info Widgets
+* Tabbed Panels with optional Dropdown
+* Left Menu in Top Navbar (optional)
+* Top Navbar is black 🖤
+* Up-to-date dependencies
 
 
 ## Getting Started
@@ -22,7 +30,6 @@ To use this template, choose one of the following options to get started:
 * Download the latest release as ZIP file from GitHub
 * Clone this repository from GitHub
 * Install using [Composer](https://getcomposer.org)
-
 
 ### Composer Install
 
