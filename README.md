@@ -53,7 +53,9 @@ Start Bootstrap was created by and is maintained by **David Miller** at [Blackro
 This template is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 It makes use of the [FontAwesome](http://fontawesome.io/) icons created by [Dave Gandy](https://twitter.com/davegandy).
 
-Many thanks to the creator of and the snippet contributors at [Bootsnipp](http://bootsnipp.com/).
+Many thanks to the snippet contributors at [Bootsnipp](http://bootsnipp.com/).
+
+Contributions by Ed Preston (@epreston) and others. Thank You!
 
 
 ## Copyright and License
