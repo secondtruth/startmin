@@ -38,19 +38,24 @@ To install the template, run the following command and you will get the latest v
 Have a bug or an issue with this template? [Open a new issue](https://github.com/secondtruth/startmin/issues) here on GitHub.
 
 
-## Contributors / Credits
+## Contributors
 
-**Startmin** is based on [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) from [Start Bootstrap](http://startbootstrap.com/).
-Start Bootstrap was created by and is maintained by **David Miller** at [Blackrock Digital](http://blackrockdigital.io/).
+Many thanks to [Ed Preston](https://github.com/epreston) (@epreston)
+  for [helping out](https://github.com/secondtruth/startmin/commits?author=epreston)!
+
+
+## Credits
+
+**Startmin** is based on [Start Bootstrap](http://startbootstrap.com/)'s **[SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)**. Start Bootstrap was created and is maintained by [David Miller](https://davidmiller.io/).
 
 This template is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 It makes use of the [FontAwesome](http://fontawesome.io/) icons created by [Dave Gandy](https://twitter.com/davegandy).
 
-Many thanks to the creator of and the snippet contributors at [Bootsnipp](http://bootsnipp.com/).
+Many thanks to the snippet contributors at [Bootsnipp](http://bootsnipp.com/).
 
 
 ## Copyright and License
 
-Copyright 2013-2017 Christian Neff / Blackrock Digital LLC.
+Copyright 2013 – 2022 Christian Neff / David Miller.
 
 Code released under the [MIT](https://github.com/secondtruth/startmin/blob/master/LICENSE) license.
