@@ -1,0 +1,29 @@
+{
+    "title": "Startmin",
+    "name": "startmin",
+    "version": "1.1.0",
+    "description": "An admin dashboard template for Bootstrap",
+    "keywords": [
+        "css",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://github.com/secondtruth/startmin",
+    "bugs": {
+        "url": "https://github.com/secondtruth/startmin/issues",
+        "email": "christian.neff@gmail.com"
+    },
+    "license": "MIT",
+    "author": "secondtruth & Start Bootstrap",
+    "contributors": [
+        "Christian Neff (https://secondtruth.de)",
+        "Ed Preston",
+        "David Miller (https://davidmiller.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/secondtruth/startmin.git"
+    }
+}
