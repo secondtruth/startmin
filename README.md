@@ -29,13 +29,20 @@ To use this template, choose one of the following options to get started:
 
 * Download the latest release as ZIP file from GitHub
 * Clone this repository from GitHub
+* Install using [NPM](https://www.npmjs.com/)
 * Install using [Composer](https://getcomposer.org)
 
-### Composer Install
+### Install via NPM
+
+To install the template using NPM, run the following command and you will get the latest version:
+
+    $ npm i startmin
+
+### Install via Composer
 
 [Install Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx) if you don't already have it present on your system.
 
-To install the template, run the following command and you will get the latest version:
+To install the template using Composer, run the following command and you will get the latest version:
 
     $ composer require secondtruth/startmin
 
@@ -53,7 +60,7 @@ Many thanks to [Ed Preston](https://github.com/epreston) (@epreston)
 
 ## Credits
 
-**Startmin** is based on [Start Bootstrap](http://startbootstrap.com/)'s **[SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/)**. Start Bootstrap was created and is maintained by [David Miller](https://davidmiller.io/).
+**Startmin** is based on [Start Bootstrap](http://startbootstrap.com/)'s **[SB Admin 2 (Legacy)](http://startbootstrap.com/theme/sb-admin-2/)**. Start Bootstrap was created and is maintained by **[David Miller](https://davidmiller.io/)**.
 
 This template is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 It makes use of the [FontAwesome](http://fontawesome.io/) icons created by [Dave Gandy](https://twitter.com/davegandy).
@@ -63,6 +70,6 @@ Many thanks to the snippet contributors at [Bootsnipp](http://bootsnipp.com/).
 
 ## Copyright and License
 
-Copyright 2013 – 2022 Christian Neff / David Miller.
+Copyright 2013 – 2022 Christian Neff & Start Bootstrap LLC.
 
 Code released under the [MIT](https://github.com/secondtruth/startmin/blob/master/LICENSE) license.
