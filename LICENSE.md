@@ -1,6 +1,6 @@
-The MIT License (MIT)
+# The MIT License (MIT)
 
-Copyright (c) 2013-2017 Christian Neff / Blackrock Digital LLC
+Copyright (c) 2013 – 2022 Christian Neff & Start Bootstrap LLC.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
