@@ -1,8 +1,13 @@
 # Startmin
 
-**Startmin** is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) originally created by [Start Bootstrap](http://startbootstrap.com/).
+**Startmin** is an open source, admin dashboard template for [Bootstrap 3](http://getbootstrap.com/) originally created by [Start Bootstrap](http://startbootstrap.com/).
 
 You can find a demo [here](http://secondtruth.github.io/startmin).
+
+
+## Alternatives
+
+* **[Startfront](https://github.com/secondtruth/startfront)** – Multipurpose, full website template for Bootstrap 5 (includes 10 unique HTML pages)
 
 
 ## Features
@@ -60,7 +65,7 @@ Many thanks to [Ed Preston](https://github.com/epreston) (@epreston)
 
 ## Credits
 
-**Startmin** is based on [Start Bootstrap](http://startbootstrap.com/)'s **[SB Admin 2 (Legacy)](http://startbootstrap.com/theme/sb-admin-2/)**. Start Bootstrap was created and is maintained by **[David Miller](https://davidmiller.io/)**.
+**Startmin** is based on [Start Bootstrap](http://startbootstrap.com/)'s **[SB Admin 2 (Legacy Version)](http://startbootstrap.com/theme/sb-admin-2/)**. Start Bootstrap was created and is maintained by **[David Miller](https://davidmiller.io/)**.
 
 This template is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 It makes use of the [FontAwesome](http://fontawesome.io/) icons created by [Dave Gandy](https://twitter.com/davegandy).
@@ -70,6 +75,6 @@ Many thanks to the snippet contributors at [Bootsnipp](http://bootsnipp.com/).
 
 ## Copyright and License
 
-Copyright 2013 – 2022 Christian Neff & Start Bootstrap LLC.
+Copyright 2013 – 2023 Christian Neff & Start Bootstrap LLC.
 
 Code released under the [MIT](https://github.com/secondtruth/startmin/blob/master/LICENSE) license.
